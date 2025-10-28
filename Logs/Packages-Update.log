@@ -1,0 +1,14 @@
+
+=== Sun Oct  5 19:49:40 2025
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.multiplayer.center@1.0.0
+The following packages were updated:
+  com.unity.inputsystem from version 1.11.1 to 1.14.2
+  com.unity.cinemachine from version 2.10.1 to 2.10.4
+  com.unity.feature.2d from version 2.0.0 to 2.0.1
+  com.unity.learn.iet-framework from version 4.1.1 to 5.0.2
+  com.unity.render-pipelines.universal from version 17.0.3 to 17.2.0
